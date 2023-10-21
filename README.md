@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan Garzya Santoso</h1>
-<h3 align="center">First Year Informatics Student at University of Surabaya</h3>
+<h3 align="center">Sophomore Informatics Student at University of Surabaya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canonflow&label=Profile%20views&color=0e75b6&style=flat" alt="canonflow" /> </p>
 
