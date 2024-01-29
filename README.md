@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan Garzya Santoso</h1>
-<h3 align="center">Sophomore Informatics Student at University of Surabaya</h3>
+<h3 align="center">Driven by a passion for innovation and technology, I am a Sophomore Computer Science student at University of Surabaya. With a keen interest in software engineering and machine learning, I constantly seek opportunities to expand my knowledge and skills in these domains. With one year of experience in web development under my belt, I am well-versed in crafting robust and user-friendly digital solutions. Equipped with problem-solving prowess and a knack for critical thinking, I am poised to make meaningful contributions to the ever-evolving tech landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canonflow&label=Profile%20views&color=0e75b6&style=flat" alt="canonflow" /> </p>
 
@@ -16,3 +16,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=canonflow&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="canonflow" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canonflow&theme=dark" alt="canonflow" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canonflow&theme=radical&" alt="canonflow" /></a> </p>
