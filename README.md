@@ -20,3 +20,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canonflow&theme=radical&" alt="canonflow" /></a> </p>
 
 ![Snake animation](https://github.com/canonflow/canonflow/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/canonflow/canonflow/blob/output/github-contribution-grid-snake.gif)
