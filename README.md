@@ -18,6 +18,9 @@ Driven by a passion for innovation and technology, I am a Junior Computer Scienc
 | Other | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) |
 | Productivity | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![PhpStorm](https://img.shields.io/badge/PhpStorm-000?style=flat-square&logo=phpstorm&logoColor=fff) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=vsc&logoColor=white) |
 
+### 📚 Currently Learning:
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=flat-square)
+
 ## 📊 GitHub Stats:
 | <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=canonflow&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" alt="David's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=canonflow&langs_count=8&layout=compact&hide_border=true&theme=dracula&cache_seconds=1800" alt="Nathan's Most Used Language">
 | ------------- | ------------- |  
