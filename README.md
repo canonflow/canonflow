@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Nathan Garzya Santoso
-Driven by a passion for innovation and technology, I am a Final Year Computer Science student at University of Surabaya. With a keen interest in software engineering and machine learning, I constantly seek opportunities to expand my knowledge and skills in these domains. With 2 years of experience in web development under my belt, I am well-versed in crafting robust and user-friendly digital solutions. Equipped with problem-solving prowess and a knack for critical thinking, I am poised to make meaningful contributions to the ever-evolving tech landscape. 
+Driven by a passion for innovation and technology, I am a Final Year Computer Science student at University of Surabaya. With a keen interest in software engineering and machine learning, I constantly seek opportunities to expand my knowledge and skills in these domains. With 2 years of experience in web development under my belt, I am well-versed in crafting robust and user-friendly digital solutions. Equipped with problem-solving prowess and a knack for critical thinking, I am poised to make meaningful contributions to the ever-evolving tech landscape.
 
 
 ## 🌐 Socials:
