@@ -1,6 +1,16 @@
 # 💫 Hi, I'm Nathan Garzya Santoso
 Driven by a passion for innovation and technology, I am a Final Year Computer Science student at University of Surabaya. With a keen interest in software engineering and machine learning, I constantly seek opportunities to expand my knowledge and skills in these domains. With 2 years of experience in web development under my belt, I am well-versed in crafting robust and user-friendly digital solutions. Equipped with problem-solving prowess and a knack for critical thinking, I am poised to make meaningful contributions to the ever-evolving tech landscape.
 
+## 📄 Experiences
+Software Engineer Intern @ PT. HM Sampoerna Tbk. - Philip Morris International (Dec 25 - Now)
+- Tech Stack: Laravel, MySQL
+- Tools: Jira, Confluence, Bit Bucket
+- Cloud: AWS
+
+Software Engineer Intern @ PT Salam Pacific Indonesia Lines (Aug 25 - Dec 25)
+- Tech Stack: Go, Laravel, NextJS, MySQL, PostgreSQL, Docker
+- Tools: Github
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nathgrz._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-garzya-santoso-3209bb212)  
