@@ -3,7 +3,7 @@ Driven by a passion for innovation and technology, I am a Final Year Computer Sc
 
 ## 📄 Experiences
 Software Engineer Intern @ PT. HM Sampoerna Tbk. - Philip Morris International (Dec 25 - Now)
-- Tech Stack: Laravel, MySQL
+- Tech Stack: Laravel, Go, NodeJS, MySQL
 - Tools: Jira, Confluence, Bit Bucket
 - Cloud: AWS
 
