@@ -13,7 +13,7 @@ Software Engineer Intern @ PT Salam Pacific Indonesia Lines (Aug 25 - Dec 25)
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nathgrz._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-garzya-santoso-3209bb212)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square)](https://instagram.com/nathgrz._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/nathan-garzya-santoso-3209bb212) [![Personal Website](https://img.shields.io/badge/Personal%20Website-172B4D?logoColor=fff&style=flat-square)](https://canonflow.cloud)
 
 ## 💻 Tech Stack:
 | Description | List |
