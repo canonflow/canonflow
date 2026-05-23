@@ -2,8 +2,13 @@
 Driven by a passion for innovation and technology, I am a Computer Science Graduate at the University of Surabaya. With a keen interest in software engineering and machine learning, I constantly seek opportunities to expand my knowledge and skills in these domains. With 1.5 years of experience in web development under my belt, I am well-versed in crafting robust and user-friendly digital solutions. Equipped with problem-solving prowess and a knack for critical thinking, I am poised to make meaningful contributions to the ever-evolving tech landscape.
 
 ## 📄 Experiences
-Software Engineer Intern @ PT. HM Sampoerna Tbk. - Philip Morris International (Dec 25 - May 26)
-- Tech Stack: Laravel, Go, NodeJS, MySQL
+Software Engineer, Backend @ Philip Morris International (June 26 - now)
+- Tech Stack: Laravel, Go, NodeJS, MySQL, Docker
+- Tools: Jira, Confluence, Bit Bucket
+- Cloud: AWS
+
+Software Engineer Intern @ Philip Morris International (Dec 25 - May 26)
+- Tech Stack: Laravel, Go, NodeJS, MySQL, Docker
 - Tools: Jira, Confluence, Bit Bucket
 - Cloud: AWS
 
