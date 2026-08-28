@@ -34,7 +34,7 @@ Software Engineer Intern @ PT Salam Pacific Indonesia Lines (Aug 25 - Dec 25)
 
 
 ### 📚 Currently Learning:
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat-square) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat-square) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka) ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=flat-square)
 
 ## 📊 GitHub Stats:
 | <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=canonflow&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" alt="David's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=canonflow&langs_count=8&layout=compact&hide_border=true&theme=dracula&cache_seconds=1800" alt="Nathan's Most Used Language">
