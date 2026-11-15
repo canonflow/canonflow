@@ -3,7 +3,7 @@ Driven by a passion for innovation and technology, I am a Computer Science Gradu
 
 ## 📄 Experiences
 Software Engineer, Backend @ Philip Morris International (June 26 - now)
-- Tech Stack: Laravel, Go, NodeJS, MySQL, Docker
+- Tech Stack: Go, Laravel, NodeJS, PostgreSQL, MySQL, Docker
 - Tools: Jira, Confluence, Bit Bucket
 - Cloud: AWS
 
